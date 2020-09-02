@@ -1,0 +1,10 @@
+
+{
+    "startStream":"commencer le stream",
+    "userLocal":"utilisateur locale",
+    "remoteUser":"utilisateur a distant",
+    "startCall":"commencer l'appel",
+    "acceptCall":"accepter l'appel",
+    "stopCall":"arreter l'appel",
+    "changeLanguage":"changer la langue"
+}
